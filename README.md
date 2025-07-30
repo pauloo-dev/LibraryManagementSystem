@@ -1,4 +1,4 @@
-<h1>📚 Library Management System — SQL Portfolio Project</h1>
+<h1>📚 Library Management System — SQL</h1>
 
 ![LMS](images/LMS.jpg)
 
