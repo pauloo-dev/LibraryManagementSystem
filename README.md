@@ -34,7 +34,7 @@ This system handles **branches**, **employees**, **members**, **books**, **issue
 ## 🗃️ Data & Entity Relationships
 
 The ERD (`Connections.png`) defines relationships between:
-![Table_Connections](Connections.png)
+![Table_Connections](images/Connections.png)
 
 - **Branches** and **Employees** (with managers),
 - **Books** and their issue/return statuses,
