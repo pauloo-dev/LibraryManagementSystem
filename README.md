@@ -3,6 +3,21 @@
 Welcome to the **Library Management System**, a SQL-based project designed to simulate the operations of a small to mid-sized library using PostgreSQL. This project showcases not only relational database modeling but also how structured SQL queries can be used to manage, maintain, and extract business insights from library operations.
 
 ---
+## 📑 Table of Contents
+
+1. [📚 Project Overview](#-library-management-system--sql-portfolio-project)
+2. [🚀 Project Summary](#-project-summary)
+3. [🗃️ Data & Entity Relationships](#️-data--entity-relationships)
+4. [🏗️ 1. Database & Schema Setup](#️-1-database--schema-setup)
+   - [🧹 Data Cleaning: Aligning Return Records](#-data-cleaning-aligning-return-records-with-issued-data)
+   - [🔗 Enforcing Data Integrity](#-enforcing-data-integrity-applying-foreign-key-constraints)
+5. [🛠️ 2. Basic CRUD Operations](#️-2-basic-crud-operations-across-core-tables)
+6. [🔗 3. Join Queries Across Multiple Tables](#-3-join-queries-across-multiple-tables)
+7. [📊 4. Analytics & Business Reporting](#-4-analytics--business-reporting)
+8. [🔍 5. Advanced Filtering & Integrity Checks](#-5-advanced-filtering--integrity-checks)
+9. [⚙️ 6. Maintenance & Admin Operations](#️-6-maintenance--admin-operations)
+
+
 
 ## 🚀 Project Summary
 
