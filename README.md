@@ -227,7 +227,7 @@ WHERE emp_id = 'E111';
 
 ---
 
-## 🔗 Join Queries Across Multiple Tables
+## 🔗 3. Join Queries Across Multiple Tables
 
 In this section, we perform SQL JOIN operations to retrieve information that spans across multiple related tables. These queries demonstrate how data from the `books`, `members`, `employees`, `branch`, `issued_status`, and `return_status` tables can be combined to give a more holistic view of the library system operations. We focus on tracking book issuance and return activity, as well as understanding employee-branch relationships.
 
