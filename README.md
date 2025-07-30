@@ -1,5 +1,5 @@
 <h1>📚 Library Management System — SQL Portfolio Project</h1>
-
+![LMS](Library_Management_System.jpg)
 
 Welcome to the **Library Management System**, a SQL-based project designed to simulate the operations of a small to mid-sized library using PostgreSQL. This project showcases not only relational database modeling but also how structured SQL queries can be used to manage, maintain, and extract business insights from library operations.
 
